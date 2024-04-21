@@ -16,7 +16,7 @@ cryptography==42.0.5
 decorator==5.1.1
 defusedxml==0.7.1
 Deprecated==1.2.14
-distlib @ file:///private/tmp/python-distlib-20231212-4938-trhlvy/distlib-0.3.8
+distlib==0.3.8
 docopt==0.6.2
 executing==2.0.1
 fastjsonschema==2.19.1

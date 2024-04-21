@@ -128,4 +128,5 @@ setuptools>=51.0.0
 wheel==0.43.0
 Cython<3,>=0.29.21
 # numpy==1.19.3
-python_version == "3.9.13"
+numpy==1.19.3
+python_version ==3.9.13
